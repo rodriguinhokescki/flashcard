@@ -1,12 +1,12 @@
 :root{
     --text-color: #dbe4ef;
-    --card-front-color: red;
+    --card-front-color: #ff0000;
     --card-back-color: #00f4bf;
 }
 
 body {
     background: url('img/bg-desktop.webp');
-    font-family: 'Bai Jamjuree';
+    font-family: 'Bai Jamjuree'
 }
 
 #container {
